@@ -46,7 +46,7 @@ header nav a:hover{
 /*filme principal*/
 .filme-principal{
     font-size:16px;
-    background: linear-gradient(rgba(0,0,0,.50),rgba(0,0,0,.50) 100%),  url('/img/capa-afsd.jpg');
+    background: linear-gradient(rgba(0,0,0,.50),rgba(0,0,0,.50) 100%),  url('https://www.tenhomaisdiscosqueamigos.com/wp-content/uploads/2022/04/animais-fantasticos-3.png');
 
     height: 400px;
     background-size: cover;
